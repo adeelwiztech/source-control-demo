@@ -13,6 +13,6 @@ export class User{
     }
 
     findUser(){
-        return {};
+        return {id:1001,fullName:'Adeel Shekhani', departmentId:14,isActive:true};
     }
 }
