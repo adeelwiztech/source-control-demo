@@ -11,4 +11,8 @@ export class User{
     findAllUsers(){
         return [];
     }
+
+    findUser(){
+        return {};
+    }
 }
