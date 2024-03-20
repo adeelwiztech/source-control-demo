@@ -13,6 +13,6 @@ export class User{
     }
 
     findUser(){
-        return {};
+        return { id:1, name: 'John Doe'};
     }
 }
